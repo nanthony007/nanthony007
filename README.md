@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 <!--[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)-->
 
-# Hello
-
 I'm Nick and I like to build software.
 
 ## Blog & Writing
