@@ -1,13 +1,12 @@
+<!--[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)-->
+
+I'm Nick and I like to build software.
 
 - 🌱 I’m currently learning Go-lang and React JS
 - 👯 I’m looking to collaborate on Python software projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: Anthing 😊
 - 📫 How to reach me: email nanthony007@gmail.com
-
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
-
-I'm Nick and I like to build software.
 
 ## Blog & Writing
 
