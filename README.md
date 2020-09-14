@@ -2,7 +2,7 @@
 
 I'm Nick and I like to build software.
 
-## Blog & Writing
+## Info & Writing
 
 Apart from coding, I also have a blog - you can find my articles on [Medium](https://medium.com/@nanthony007).
 
