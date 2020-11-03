@@ -1,6 +1,6 @@
 I'm Nick and I like to build software.
 
-## Info & Writing
+## Info
 
 Apart from coding, I also have a blog - you can find my articles on [Medium](https://medium.com/@nanthony007).
 
