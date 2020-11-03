@@ -10,7 +10,6 @@ I'm also going to be setting up a personal website... one day.
 
 - 🌱 I’m currently learning Go-lang and React JS
 - 👯 I’m looking to collaborate on Python software projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about: Anthing 😊
 - 📫 How to reach me: email nanthony007@gmail.com
 
