@@ -4,7 +4,7 @@ Apart from coding, I have started a blog, you can find my articles on [Medium](h
 
 I also have a personal [website](https://nanthony007.github.io/).
 
-- 🌱 I’m currently learning Go-lang and React JS
+- 🌱 I’m currently learning Go and React
 - 👯 I’m looking to collaborate on Python software projects
 - 💬 Ask me about: Anything 😊
 - 📫 How to reach me: nanthony007@gmail.com
