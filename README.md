@@ -18,7 +18,7 @@ I'm Nick and I like to build software.
   passions: ['Outdoors', 'Hiking', 'Rock Climbing', 'Photography', 'Mountains', 'Oceans'],
   hobbies: ['Valorant', 'Reading', 'Writing'],
   family: [
-    {'wife': @michelledg26},
+    {'wife': @mduong26},
     {'pupper': 'Kingsley'}
   ],  
 }
