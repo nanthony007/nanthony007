@@ -2,14 +2,13 @@
 
 I'm Nick and I like to build software.
 
-Apart from coding, I have started a blog, you can find my articles on [Medium](https://medium.com/@nanthony007).
-
-I also have a personal [website](https://nanthony007.github.io/).
-
+- 👨‍💻 Check-out my [Website](https://nanthony007.github.io/)!
+- 📃 Check-out my [Blog](https://medium.com/@nanthony007)!
 - 🌱 I’m currently learning Go and React
 - 👯 I’m looking to collaborate on open-source Python projects
 - 💬 Ask me about: Anything 😊
 - 📫 How to reach me: nanthony007@gmail.com
+
 
 
 ## About Me
@@ -21,8 +20,7 @@ I also have a personal [website](https://nanthony007.github.io/).
   family: [
     {'wife': [@michelledg26](https://twitter.com/mduong26)},
     {'pupper': 'Kingsley'}
-  ],
-  
+  ],  
 }
 ```
 
