@@ -1,4 +1,4 @@
-[GitHub banner](./GitHub_banner.png)
+![GitHub banner]("GitHub banner.png")
 
 I'm Nick and I like to build software.
 
