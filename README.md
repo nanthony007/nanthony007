@@ -1,4 +1,4 @@
-![GitHub banner](banner.png)
+![GitHub banner](banner.jpeg)
 
 I'm Nick and I like to build software.
 
