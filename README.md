@@ -12,5 +12,4 @@ I also have a personal [website](https://nanthony007.github.io/).
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanthony007&theme=calm)](https://github.com/nanthony007/github-readme-stats)
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanthony007&show_icons=true&theme=calm)
