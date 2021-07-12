@@ -5,15 +5,12 @@ Apart from coding, I have started a blog, you can find my articles on [Medium](h
 I also have a personal [website](https://nanthony007.github.io/).
 
 - 🌱 I’m currently learning Go and React
-- 👯 I’m looking to collaborate on Python software projects
+- 👯 I’m looking to collaborate on open-source Python projects
 - 💬 Ask me about: Anything 😊
 - 📫 How to reach me: nanthony007@gmail.com
 
 
 ## GitHub Stats
 
-<a href="https://github.com/nanthony007/nanthony007">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanthony007&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nanthony007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a> 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanthony007&theme=calm)](https://github.com/nanthony007/github-readme-stats)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanthony007&show_icons=true&theme=calm)
