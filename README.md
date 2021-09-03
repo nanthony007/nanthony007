@@ -21,8 +21,8 @@ type AboutMe struct {
 }
 
 nick := AboutMe{
-  []string{"Outdoors", "Hiking", "Rock Climbing", "Photography", "Mountains", "Oceans", "A Good Cup of Coffee"},
-  []string{"Gaming", "Reading", "Writing"},
+  []string{"Nature", "Photography", "Mountains", "Oceans", "A Good Cup of Coffee"},
+  []string{"Gaming", "Reading", "Writing", "Hiking", "Rock Climbing"},
   map[string]string{
     "wife":   "@mduong26",
     "pupper": "Kingsley",
