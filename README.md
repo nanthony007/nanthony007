@@ -18,6 +18,7 @@ type AboutMe struct {
 	passions []string
 	hobbies  []string
 	family   map[string]string
+	codingLevels   map[string]string  // use climbing scale of VB-V10
 }
 
 nick := AboutMe{
@@ -26,6 +27,12 @@ nick := AboutMe{
   map[string]string{
     "wife":   "@mduong26",
     "pupper": "Kingsley",
+  },
+  map[string]string{
+    "go": "v3",
+    "python": "v9",
+    "vue": "v5"
+  }
 }
 ```
 
