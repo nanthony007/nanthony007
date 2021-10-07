@@ -31,7 +31,7 @@ nick := AboutMe{
   codingLevels: map[string]string{
     "go": "v3",
     "python": "v9",
-    "vue": "v5"
+    "vue": "v5",
   }
 }
 ```
