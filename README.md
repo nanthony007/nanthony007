@@ -22,13 +22,13 @@ type AboutMe struct {
 }
 
 nick := AboutMe{
-  []string{"Nature", "Photography", "Mountains", "Oceans", "A Good Cup of Coffee"},
-  []string{"Gaming", "Reading", "Writing", "Hiking", "Rock Climbing"},
-  map[string]string{
+  passions: []string{"Nature", "Photography", "Mountains", "Oceans", "A Good Cup of Coffee"},
+  hobbies: []string{"Gaming", "Reading", "Writing", "Hiking", "Rock Climbing"},
+  family: map[string]string{
     "wife":   "@mduong26",
     "pupper": "Kingsley",
   },
-  map[string]string{
+  codingLevels: map[string]string{
     "go": "v3",
     "python": "v9",
     "vue": "v5"
