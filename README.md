@@ -5,7 +5,9 @@ I'm Nick and I like to build software.
 - 👨‍💻 Check-out my [Website](https://nanthony007.github.io/)!
 - 📃 Check-out my [Blog](https://medium.com/@nanthony007)!
 - 🌱 I’m currently learning Go and React
-- 👯 I’m looking to collaborate on open-source Python projects
+- 🤩 I'm a fan of JAMstack and FaaS
+- 👯 I’m looking to collaborate on open-source projects
+- 🧗‍♂️ I enjoy hiking and rock climbing
 - 💬 Ask me about: Anything 😊
 - 📫 How to reach me: nanthony007@gmail.com
 
