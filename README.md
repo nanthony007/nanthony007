@@ -53,5 +53,5 @@ nick := AboutMe{
 ## GitHub Stats
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanthony007&show_icons=true&theme=graywhite&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanthony007&theme=graywhite&layout=compact)](https://github.com)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanthony007&theme=graywhite&layout=compact)](https://github.com) -->
 
