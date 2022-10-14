@@ -1,6 +1,6 @@
 ![GitHub banner](banner.jpeg)
 
-I'm Nick and I like to build software.
+I'm Nick and I like to build software. I'm currently working at University of Kentucky, [check us out](https://github.com/UK-IPOP)!
 
 - 👨‍💻 Check-out my [Website](https://nanthony007.github.io/)!
 - 📃 Check-out my [Blog](https://medium.com/@nanthony007)!
