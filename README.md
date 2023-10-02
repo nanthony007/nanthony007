@@ -2,14 +2,12 @@
 
 I'm Nick and I like to build software. I'm currently working at University of Kentucky, [check us out](https://github.com/UK-IPOP)!
 
-- 👨‍💻 Check-out my [Website](https://nanthony007.github.io/)!
 - 📃 Check-out my [Blog](https://medium.com/@nanthony007)!
 - 🌱 I’m currently learning Rust
 - 🤩 I'm a fan of Algorithms and Speed
 - 👯 I’m looking to collaborate on open-source projects
 - 🧗‍♂️ I enjoy hiking and rock climbing
 - 💬 Ask me about: Anything 😊
-- 📫 How to reach me: nanthony007@gmail.com
 
 
 
