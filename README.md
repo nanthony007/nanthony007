@@ -1,1 +1,3 @@
-![GitHub banner](nicklogos.png)
+<div align="center">
+	<img src="nicklogos.png">
+</div>
